@@ -1,13 +1,35 @@
 ## Data Science Summer School at Gachon University
-
 본 코드는 2016년 가천대학교 산업경영공학과 TeamLab에서 운영한 데이터마이닝 여름학교에 활용한 자료들입니다. 강의 영상과 자료들은 순차적으로 업데이트 됩니다
 
+## Course Repository
+* [강의자료 on Docs.com](https://doc.co/miwc5C)
+* [강의영상 on Youtube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
+* [코드 on Github](https://github.com/TeamLab/data_school_at_gachon) - Here :)
 
-## 강의 내용
+## Course Prerequisites
+* 입문 수준의 통계학
+    - [세상에서 가장 쉬운 통계학](http://www.yes24.com/24/goods/3625262?scode=032&OzSrank=1) (고지마 히로유키, 2009) 
+* 고교 이과 수준의 선형대수학 
+    - [Linear Algebra] (https://www.khanacademy.org/math/linear-algebra) (Khan Academy)
+    - [선형대수학](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) (한양대 이상화 교수, 2013) - Advance Course
+* 리눅스 설치 (14.04+) 및 활용
+    - [Linux - Ubuntu 14.04 설치하기] (http://studyforus.tistory.com/222)
+    - [우분투-1604-설치과정-VMware-12-pro] (http://goodtogreate.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-1604-%EC%84%A4%EC%B9%98%EA%B3%BC%EC%A0%95-VMware-12-pro)
+    - [세상에서 가장 쉬운 리눅스](http://www.yes24.com/24/goods/12653103?scode=032&OzSrank=1) (웨일 소잉카, 2014)
+    - [리눅스 활용 기초] (https://www.youtube.com/playlist?list=PL3zP7rnORnnBb0yZf4GMamxEuOusySpyk)
+* 기초 파이썬 
+    - Gachon CS50 - [Data structure: Dict type](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS) (최성철, 2016)
+    - Gachon CS50 -  [Pythonic code](https://www.youtube.com/watch?v=dFjuSonfEQI&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=8) (Gachon CS50 최성철, 2016)
+    - Gachon IME O.R. Honors - [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp) (최성철, 2016)
+* Git
+    - [Pro Git] (http://www.yes24.com/24/goods/24841824?scode=032&OzSrank=1) (스캇 샤콘 | 벤 스트라웁, 2016)
+    - [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap) (생활코딩, 2014)
+
+## Course Contents
 
 ### Intro
 * 데이터 과학 시작하기
-    - 데이터 과학은 무엇을 배우는가?
+    - 데이터 과학이란 무엇인가? - [강의영상 - 제작중](), [강의자료](https://doc.co/t57U5G)
     - 파이썬 코딩 환경 설정
 * 파이썬으로 수식 다루기 
     - 선형대수
