@@ -33,7 +33,9 @@
 
 ### Intro
 * 데이터 과학 시작하기
-    - 데이터 과학이란 무엇인가? - [강의영상 - 제작중](), [강의자료](https://doc.co/t57U5G)
+    - 데이터 과학이란 무엇인가? - [강의영상 - 제작중](), [강의자료](https://doc.co/t57U5G/miwc5C)
+    - Machine Learning Overview - [강의영상 - 제작중](), [강의자료](https://doc.co/ixxrYu/miwc5C)
+    - How to Learn ML - [강의영상 - 제작중](), [강의자료](https://doc.co/pu98fv/miwc5C)
     - Reading Materials 
         - Scratch - Ch.1 
         - DDS - Ch.1, Ch.2 
