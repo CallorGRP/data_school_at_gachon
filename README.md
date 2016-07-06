@@ -3,8 +3,8 @@
 
 ## Course Info
 * Course textbooks
-    - [밑바닥부터 시작하는 데이터 과학](http://www.yes24.com/24/goods/27951467?scode=032&OzSrank=1) A.K.A. "scratch" (조엘 그루스, 2016)
-    - [데이터 과학 입문](http://www.yes24.com/24/goods/14982043?scode=032&OzSrank=4) A.K.A. "DDS" (레이철 슈트 | 캐시 오닐, 2014)
+    - [밑바닥부터 시작하는 데이터 과학](http://www.yes24.com/24/goods/27951467?scode=032&OzSrank=1) a.k.a. "scratch" (조엘 그루스, 2016)
+    - [데이터 과학 입문](http://www.yes24.com/24/goods/14982043?scode=032&OzSrank=4) a.k.a. "DDS" (레이철 슈트 | 캐시 오닐, 2014)
 * Course repository
     - [강의자료 on Docs.com](https://doc.co/miwc5C)
     - [강의영상 on Youtube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
@@ -49,7 +49,7 @@
     - Numpy 
          - Gachon IME O.R. Honors - [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp) (최성철, 2016)
 
-* 선형 회귀 (Regression)
+* 선형 회귀 (Linear Regression)
     - 선형 회귀 모델
     - 선형 회귀 구현
     - 선형 회귀의 성능측정
