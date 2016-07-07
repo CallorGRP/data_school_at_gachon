@@ -40,8 +40,10 @@
         - Scratch - Ch.1 
         - DDS - Ch.1, Ch.2 
 * Data science ecosystem for python
-    - Miniconda installation - [강의영상 - 제작중]() 
-    - Machine learning packages for Python - [강의영상 - 제작중]()
+    - 파이썬 머신러닝 환경 개요 - 강의영상 - 제작검토, [강의자료 - 제작예정]()
+    - [파이썬 머신러닝 환경 설치 문서 - 제작예정]() 
+    - Miniconda installation - [강의영상](https://youtu.be/SAbunYOXaRU?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J) 
+    - Python Ecosystems for Machine Learning - [강의영상](https://youtu.be/BobZjJVZorY?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
     - Pycharm installation - [강의영상](https://youtu.be/BobZjJVZorY)
 * 파이썬으로 수식 다루기 
     - 선형대수
