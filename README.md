@@ -55,7 +55,11 @@
 
 * 선형 회귀 (Linear Regression)
     - 선형 회귀 모델
-    - 선형 회귀 구현
+    - 참고: 미분 강의
+        - [프로그래머를 위한 미분 강의](https://youtu.be/LwhK9HBEVAM) (홍정모, 2016)
+    - 참고: 선형 회귀 모델 및 Tensorflow 구현
+        - [Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
+        - [Tensorflow로 간단한 linear regression을 구현](https://youtu.be/4HrSxpi3IAM?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
     - 선형 회귀의 성능측정
     - 탐색적 자료 분석과 정규화 
     - Regression with Tensorflow
