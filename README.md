@@ -53,21 +53,23 @@
     - Numpy 
          - Gachon IME O.R. Honors - [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp) (최성철, 2016)
 
+### 지도 학습 (Supervised learning)
 * 선형 회귀 (Linear Regression)
-    - 선형 회귀 모델
+    - 선형 회귀 모델 개요
     - 참고: 미분 강의
         - [프로그래머를 위한 미분 강의](https://youtu.be/LwhK9HBEVAM) (홍정모, 2016)
+    - 경사하강법 (Gradient Descent)
+    - 경사하강법 (Gradient Descent)
     - 참고: 선형 회귀 모델 및 Tensorflow 구현
         - [Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
         - [Tensorflow로 간단한 linear regression을 구현](https://youtu.be/4HrSxpi3IAM?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
+
     - 선형 회귀의 성능측정
     - 탐색적 자료 분석과 정규화 
     - Regression with Tensorflow
     - Regression with Scikit-learn    
     - 벌점 회귀 (Penalized regression)
     - 벌점 회귀의 구현
-
-### 지도 학습 (Supervised learning)
 * 로지스틱 회귀 (Logistic regression)
     - 로지스틱 회귀 모델 
     - 로지스틱 회귀의 구현
