@@ -55,15 +55,16 @@
 
 ### 지도 학습 (Supervised learning)
 * 선형 회귀 (Linear Regression)
-    - 선형 회귀 모델 개요
-    - 참고: 미분 강의
-        - [프로그래머를 위한 미분 강의](https://youtu.be/LwhK9HBEVAM) (홍정모, 2016)
-    - 경사하강법 (Gradient Descent)
-    - 경사하강법 (Gradient Descent)
+    - 상관분석 - [강의영상 - 제작중](), [강의자료](https://doc.co/ALbkA1)
+        - 참고 1 - [상관계수 구하는 법](http://math7.tistory.com/113) (나부랭이의 수학블로그, 2015)
+    - 선형 회귀 모델 개요  - [강의영상 - 제작중](), [강의자료](https://doc.co/YZmpW9)
+        - 참고 1 - [프로그래머를 위한 미분 강의](https://youtu.be/LwhK9HBEVAM) (홍정모, 2016)
+    - Lab : 상관분석 - [강의영상 - 제작중](), [강의자료](https://doc.co/KAdm49)
+    - Lab : 선형회귀 모델 - [강의영상 - 제작중](), [강의자료](https://doc.co/pXRgaD)
+    - 경사하강법 (Gradient Descent) - [강의영상 - 제작중](), [강의자료](https://doc.co/NTaRyv)
     - 참고: 선형 회귀 모델 및 Tensorflow 구현
         - [Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
         - [Tensorflow로 간단한 linear regression을 구현](https://youtu.be/4HrSxpi3IAM?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
-
     - 선형 회귀의 성능측정
     - 탐색적 자료 분석과 정규화 
     - Regression with Tensorflow
