@@ -1,4 +1,4 @@
-# This dockerfile is modified from https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/docker/Dockerfile
+# This dockerfile is modified from https://hub.docker.com/r/pdonorio/py3dataconda/~/dockerfile/
 
 FROM pdonorio/py3kbase
 
