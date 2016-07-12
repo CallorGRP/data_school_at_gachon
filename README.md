@@ -62,6 +62,8 @@
     - Lab : 상관분석 - [강의영상 - 제작중](), [강의자료](https://doc.co/KAdm49)
     - Lab : 선형회귀 모델 - [강의영상 - 제작중](), [강의자료](https://doc.co/pXRgaD)
     - 경사하강법 (Gradient Descent) - [강의영상 - 제작중](), [강의자료](https://doc.co/NTaRyv)
+    - 경사하강법 (Gradient Descent) - [강의영상 - 제작중](), [강의자료](https://doc.co/NTaRyv)
+
     - 참고: 선형 회귀 모델 및 Tensorflow 구현
         - [Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
         - [Tensorflow로 간단한 linear regression을 구현](https://youtu.be/4HrSxpi3IAM?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
