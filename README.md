@@ -63,14 +63,14 @@
     - Lab : 상관분석 - [강의영상 - 제작중](), [강의자료](https://doc.co/KAdm49)
     - Lab : 선형회귀 모델 - [강의영상 - 제작중](), [강의자료](https://doc.co/pXRgaD)
     - 경사하강법 (Gradient Descent) - [강의영상 - 제작중](), [강의자료](https://doc.co/NTaRyv)
-    - 선형회귀를 위한 경사하강법 - 강의영상 - 제작중, [강의자료](https://doc.co/NTaRyv)
-    - Lab: 선형회귀 경사하강법 구현 - 강의영상 - 제작중, [강의자료]()
+    - 선형회귀를 위한 경사하강법 - 강의영상 - 제작중, [강의자료](https://doc.co/VvY4rk)
+    - Lab: 선형회귀 경사하강법 구현 - 강의영상 - 제작중, [강의자료](https://doc.co/GJjb9V)
     - Cost Fucntion Graph -  강의자료, 강의영상
-    - PyData Package: Tensorflow vs Scikit-learn - 강의영상 - 제작중, [강의자료]()
-    - Lab: Linear Regression Tensorflow - 강의영상 - 제작중, [강의자료]()
+    - PyData Package: Tensorflow vs Scikit-learn - 강의영상 - 제작중, [강의자료](https://doc.co/qR89fb)
+    - Lab: Linear Regression Tensorflow - 강의영상 - 제작중, [강의자료](https://doc.co/x96Edn)
         - 참고 1 :[Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
         - 참고 2 :[Tensorflow로 간단한 Linear Regression을 구현](https://youtu.be/4HrSxpi3IAM?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
-    - Lab: Linear Regression Scikit-learn - 강의영상 - 제작중, [강의자료]()
+    - Lab: Linear Regression Scikit-learn - 강의영상 - 제작중, [강의자료](https://doc.co/WGwUe5)
     - 다중 선형회귀 모델
     - Lab: 다중 선형회귀 모델 구현
     - Lab: 다중 선형회귀 모델 Tenrsorflow & Scikit-learn 구현 
