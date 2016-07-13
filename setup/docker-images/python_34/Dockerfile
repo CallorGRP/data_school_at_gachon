@@ -85,7 +85,12 @@ RUN sed -ri 's/UsePAM yes/#UsePAM yes/g' /etc/ssh/sshd_config
 # Script: Activate virtualenv and launch notebook
 ENV STARTSCRIPT /opt/start
 #RUN source activate $MY_CONDA_PY3ENV
+CMD "/bin/bash"
+RUN echo "export LC_ALL=en_US.UTF-8" >> "/root/.bash_profile"
+RUN echo "export LANG=en_US.UTF-8" >>  "/root/.bash_profile"
+
 RUN echo "#!/bin/bash" > $STARTSCRIPT
+RUN echo "source ~/.bash_profile" >>  $STARTSCRIPT
 RUN echo "$CONDA_ACTIVATE" >> $STARTSCRIPT
 RUN echo -e "# install kernels\npython -m ipykernel.kernelspec" >> $STARTSCRIPT
 RUN echo -e "tensorboard --logdir=/logs --host 0.0.0.0 &" >> $STARTSCRIPT

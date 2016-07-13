@@ -52,6 +52,7 @@
         - Scratch - Ch.5, Ch.6, Ch.7
     - Numpy 
          - Gachon IME O.R. Honors - [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp) (최성철, 2016)
+         - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
 
 ### 지도 학습 (Supervised learning)
 * 선형 회귀 (Linear Regression)
@@ -63,16 +64,17 @@
     - Lab : 선형회귀 모델 - [강의영상 - 제작중](), [강의자료](https://doc.co/pXRgaD)
     - 경사하강법 (Gradient Descent) - [강의영상 - 제작중](), [강의자료](https://doc.co/NTaRyv)
     - 선형회귀를 위한 경사하강법 - 강의영상 - 제작중, [강의자료](https://doc.co/NTaRyv)
-    - Lab: 선형회귀를 위한 경사하강법 - 강의영상 - 제작중, [강의자료](https://doc.co/NTaRyv)
-    - 참고: 선형 회귀 모델 및 Tensorflow 구현
-        - [Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
-        - [Tensorflow로 간단한 linear regression을 구현](https://youtu.be/4HrSxpi3IAM?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
-    - 선형 회귀의 성능측정
-    - 탐색적 자료 분석과 정규화 
-    - Regression with Tensorflow
-    - Regression with Scikit-learn    
-    - 벌점 회귀 (Penalized regression)
-    - 벌점 회귀의 구현
+    - Lab: 선형회귀 경사하강법 구현 - 강의영상 - 제작중, [강의자료]()
+    - Cost Fucntion Graph -  [강의자료]()
+    - PyData Package: Tensorflow vs Scikit-learn - 강의영상 - 제작중, [강의자료]()
+    - Lab: Linear Regression Tensorflow - 강의영상 - 제작중, [강의자료]()
+        - 참고 1 :[Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
+        - 참고 2 :[Tensorflow로 간단한 Linear Regression을 구현](https://youtu.be/4HrSxpi3IAM?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
+    - Lab: Linear Regression Scikit-learn - 강의영상 - 제작중, [강의자료]()
+    - 다중 선형회귀 모델
+    - Lab: 다중 선형회귀 모델 구현
+    - Lab: 다중 선형회귀 모델 Tenrsorflow & Scikit-learn 구현 
+    - 선형회귀의 성능 측정
 * 로지스틱 회귀 (Logistic regression)
     - 로지스틱 회귀 모델 
     - 로지스틱 회귀의 구현

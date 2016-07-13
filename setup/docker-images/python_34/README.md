@@ -12,9 +12,9 @@
 > ```bash
 > docker build --tag teamlab/ml_python_tensor:0.1 .
 > ```
-- 컨테이너 실행
+- 컨테이너 실행 (내 PC의 폴더를 지정)
 > ```bash
-> docker run -it -p 8888:8888 -p 6006:6006 --volume /<하드드라이브알파벳>/<폴더명>/:/notebooks <이미지명>:<빌드번호>
+> docker run -it -p 8888:8888 -p 6006:6006 --volume /<하드드라이브알파벳>/<공유할폴더명>/:/notebooks <이미지명>:<빌드번호>
 > ```
 
 - 컨테이너 실행 예시
