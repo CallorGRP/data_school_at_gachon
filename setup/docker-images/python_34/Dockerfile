@@ -57,7 +57,7 @@ RUN $CONDA_ACTIVATE && pip install howdoi
 ###############################
 
 # Copy sample notebooks.
-CMD ["mkdir /notebook"]
+CMD ["mkdir /notebooks"]
 # Jupyter has issues with being run directly:
 #   https://github.com/ipython/ipython/issues/7062
 # We just add a little wrapper script.
