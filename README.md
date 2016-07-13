@@ -65,7 +65,7 @@
     - 경사하강법 (Gradient Descent) - [강의영상 - 제작중](), [강의자료](https://doc.co/NTaRyv)
     - 선형회귀를 위한 경사하강법 - 강의영상 - 제작중, [강의자료](https://doc.co/NTaRyv)
     - Lab: 선형회귀 경사하강법 구현 - 강의영상 - 제작중, [강의자료]()
-    - Cost Fucntion Graph -  [강의자료]()
+    - Cost Fucntion Graph -  강의자료, 강의영상
     - PyData Package: Tensorflow vs Scikit-learn - 강의영상 - 제작중, [강의자료]()
     - Lab: Linear Regression Tensorflow - 강의영상 - 제작중, [강의자료]()
         - 참고 1 :[Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
