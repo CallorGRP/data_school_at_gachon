@@ -40,7 +40,7 @@ RUN conda install -y -n $MY_CONDA_PY3ENV \
         matplotlib seaborn bokeh
 
 RUN conda install -y -n $MY_CONDA_PY3ENV \
-        gensim
+        gensim beautifulsoup4 html5lib
 
 RUN conda install -y -c jjhelmus -n $MY_CONDA_PY3ENV \
     tensorflow=0.9.0
@@ -56,12 +56,16 @@ RUN $CONDA_ACTIVATE && pip install howdoi
 
 ###############################
 
+USER root
+
 # Copy sample notebooks.
 CMD ["mkdir /notebooks"]
+
 # Jupyter has issues with being run directly:
 #   https://github.com/ipython/ipython/issues/7062
 # We just add a little wrapper script.
 WORKDIR "/notebooks"
+
 
 # TensorBoard
 EXPOSE 6006
@@ -83,6 +87,7 @@ RUN sed -ri 's/UsePAM yes/#UsePAM yes/g' /etc/ssh/sshd_config
 ###############################
 
 # Script: Activate virtualenv and launch notebook
+
 ENV STARTSCRIPT /opt/start
 #RUN source activate $MY_CONDA_PY3ENV
 CMD "/bin/bash"
@@ -95,6 +100,6 @@ RUN echo "$CONDA_ACTIVATE" >> $STARTSCRIPT
 RUN echo -e "# install kernels\npython -m ipykernel.kernelspec" >> $STARTSCRIPT
 RUN echo -e "tensorboard --logdir=/logs --host 0.0.0.0 &" >> $STARTSCRIPT
 RUN echo -e "/usr/sbin/sshd -D &" >> $STARTSCRIPT
-RUN echo -e "# launch notebook\njupyter notebook --ip=0.0.0.0 --no-browser --matplotlib=inline" >> $STARTSCRIPT
+RUN echo -e "# launch notebook\njupyter notebook --ip=0.0.0.0 --no-browser " >> $STARTSCRIPT
 RUN chmod +x $STARTSCRIPT
 CMD ["/opt/start"]

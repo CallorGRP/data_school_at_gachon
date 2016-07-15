@@ -3,7 +3,9 @@
 
 ### Dockerfile Overview
 - [Dockerfile for pydata with tensorflow](Dockerfile)
-- Docker 설치 가이드 영상 (최성철, 2016)
+- Docker 설치 방법
+    - [Windows 10에서 Docker for Windows 설치](http://bryan7.tistory.com/774)(2016, 강희석)
+    - Docker 설치 가이드 영상 - 제작예정
 - 이미지 생성 명령어
 > ```bash
 > docker build --tag <이미지명>:<빌드번호> .
