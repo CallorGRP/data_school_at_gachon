@@ -10,18 +10,18 @@
 > ```bash
 > docker build --tag <이미지명>:<빌드번호> .
 > ```
-- 이미지 생성 명령어 예시
+- 이미지 생성 명령어
 > ```bash
-> docker build --tag teamlab/ml_python_tensor:0.1 .
+> docker build --tag teamlab/pydata-tensorflow:0.1
 > ```
 - 컨테이너 실행 (내 PC의 폴더를 지정)
 > ```bash
-> docker run -it -p 8888:8888 -p 6006:6006 --volume /<하드드라이브알파벳>/<공유할폴더명>/:/notebooks <이미지명>:<빌드번호>
+> docker run -it -p 8888:8888 -p 6006:6006 --volume /<하드드라이브알파벳>/<공유할폴더명>/:/notebooks teamlab/pydata-tensorflow:0.1
 > ```
 
 - 컨테이너 실행 예시
 > ```bash
-> docker run -it -p 8888:8888 -p 6006:6006 --volume /D/workspace/:/notebooks teamlab/ml_python_tensor:0.1
+> docker run -it -p 8888:8888 -p 6006:6006 --volume /D/workspace/:/notebooks teamlab/pydata-tensorflow:0.1
 > ```
 
 ### Objectives
@@ -37,4 +37,12 @@
 - Jupyter
 - Scikit-learn
 - Gensim
+- BeautifulSoup4
 - Tensorflow
+
+### Issues
+- matplotlib의 그래프를 inline으로 출력하고 저장시 저장불가 (원인파악중)
+- matplotlib의 그래프는 실행후 결과를 확인하고 output clean을 한 후 저장 가능
+
+### Versions
+- 0.1: First open version to the public
