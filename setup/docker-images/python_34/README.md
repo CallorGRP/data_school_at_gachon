@@ -46,3 +46,6 @@
 
 ### Versions
 - 0.1: First open version to the public
+
+### acknowledgement
+- This dockerfile is modified from https://hub.docker.com/r/pdonorio/py3dataconda/~/dockerfile/
