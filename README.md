@@ -94,20 +94,19 @@
 * 분석 성능 측정과 개선 (Performance Evaluation )
     - Lecture: Supervised Learning 성능 측정과 Overfitting 이슈
         - RM 1 : Scratch Ch 11(p143~p147)
+        - RM 1 : Scratch Ch 11(p143~p147)
         - 참고 1 :[Overfitting](http://sanghyukchun.github.io/59/) (전상혁, 2014)
     - Lecture: 분류 문제의 성능 측정
     - Lab: 분류 문제의 성능 측정
+    - Lecture: 회귀 문제의 성능 측정
+    - Lab: 회귀 문제의 성능 측정
     - Lecture: 성능 개선 1 - 벌점 회귀 (Penalizaed Regression)
-    - Lab: 벌점 회귀 구현 I (Pure Python) 
+    - Lab: 벌점 회귀 구현 I (Numpy) 
     - Lab: 벌점 회귀 구현 II (Tensorflow & Scikit-Learn) 
     - Lecture: 성능 개선 2 - Feature Engineering
     - Lab: Feature Selection with Pandas
     - Lecture: 성능 개선 3 - 경사하강법 알고리즘의 선택
-    - Lab: 알고리즘 구현
-    - Lecture: 회귀 문제의 성능 측정
-    - Lab: 회귀 문제의 성능 측정
-    - Lecture: 회귀 문제의 성능 개선
-    - Lab: 회귀 문제의 성능 개선 구현
+    - Lab: SGD 알고리즘 구현
 * 베이지안 분류기 (Bayesian Classifier)
     - 베이지안 모델, 나이브 베이즈
 * 의사 결정 트리 (Decision Tree )
