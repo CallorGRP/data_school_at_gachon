@@ -93,6 +93,7 @@
     - Lab: 범주형 자료와 다항 로지스틱 회귀 구현 II (Tensorflow, Scikit-learn)
 * 분석 성능 측정과 개선 (Performance Evaluation )
     - Lecture: Supervised Learning 성능 측정과 Overfitting 이슈
+        - RM 1 : Scratch Ch 11(p143~p147)
         - 참고 1 :[Overfitting](http://sanghyukchun.github.io/59/) (전상혁, 2014)
     - Lecture: 분류 문제의 성능 측정
     - Lab: 분류 문제의 성능 측정
