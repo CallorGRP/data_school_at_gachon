@@ -88,18 +88,18 @@
         - 참고 1 :[Logistic Classification의 가설 함수 정의](https://www.youtube.com/watch?v=PIjno6paszY&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=10) (김성훈, 2016)
         - 참고 2 :[Logistic Regression의 cost 함수 설명](https://www.youtube.com/watch?v=6vzchGYEJBc&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=11) (김성훈, 2016)
         - 참고 3 :[TensorFlow로 Logistic Classification의 구현하기](https://www.youtube.com/watch?v=t7Y9luCNzzE&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=12) (김성훈, 2016)
-    - Lecture: 범주형 자료와 다항 로지스틱 회귀 (Categorical data and Multinomial Logistic Regression)
+    - Lecture: 범주형 자료와 다항 로지스틱 회귀 (Categorical data and Multinomial Logistic Regression) - [code](code/2_logistic_regression/5_categorical_data_logistic_regression.ipynb)
     - Lab: 범주형 자료와 다항 로지스틱 회귀 구현 (Pure Python)
-    - Lab: 범주형 자료와 다항 로지스틱 회귀 구현 II (Tensorflow, Scikit-learn)
+    - Lab: 범주형 자료와 다항 로지스틱 회귀 구현 II (Tensorflow, Scikit-learn) - [강의자료](https://doc.co/2K3EfX/miwc5C), [Code](./code/2_logistic_regression/6_multinomail_logistic_regression.ipynb)
+    - Lecture: 분류 서비스 구현하기 - [강의자료](https://doc.co/QSHysn/miwc5C), [Modelling code](./code/2_logistic_regression/7_classification_service.ipynb),  [Service code](./code/2_logistic_regression/8_logistic_service_server.py)
 * 분석 성능 측정과 개선 (Performance Evaluation )
-    - Lecture: Supervised Learning 성능 측정과 Overfitting 이슈
+    - Lecture: 분류/회귀 문제의 성능 측정 - [강의자료](https://doc.co/bcmdod/miwc5C)
         - RM 1 : Scratch Ch 11(p143~p147)
-        - RM 1 : Scratch Ch 11(p143~p147)
+        - RM 2 : DDS Ch 3(p92), Ch 5(p140~p153)
+    - Lab: 분류 문제의 성능 측정 - [Code](./code/3_analysis_performance/1_measure_classification_performance.ipynb)
+    - Lab: 회귀 문제의 성능 측정 - [Code](./code/3_analysis_performance/2_measure_regression_performance.ipynb)
+    - Lecture: 어떻게 성능을 개선할 것인가?
         - 참고 1 :[Overfitting](http://sanghyukchun.github.io/59/) (전상혁, 2014)
-    - Lecture: 분류 문제의 성능 측정
-    - Lab: 분류 문제의 성능 측정
-    - Lecture: 회귀 문제의 성능 측정
-    - Lab: 회귀 문제의 성능 측정
     - Lecture: 성능 개선 1 - 벌점 회귀 (Penalizaed Regression)
     - Lab: 벌점 회귀 구현 I (Numpy) 
     - Lab: 벌점 회귀 구현 II (Tensorflow & Scikit-Learn) 
@@ -107,8 +107,13 @@
     - Lab: Feature Selection with Pandas
     - Lecture: 성능 개선 3 - 경사하강법 알고리즘의 선택
     - Lab: SGD 알고리즘 구현
-* 베이지안 분류기 (Bayesian Classifier)
-    - 베이지안 모델, 나이브 베이즈
+* 나이브 베이즈 분류기 (Navie Bayes Classifier)
+    - Lecture: 나이브 베이즈 분류기 개요 (Naive Bayesian Classifier Overview)
+        - RM 1 : DDS Ch 4(p117)
+        - RM 2 : scratch Ch 13
+    - Lab: 나이브 베이즈 분류기 구현 (Numpy)
+    - Lab: 스팸필터 분류기 (Scikit-Learn)
+    - Lab: Text-mining 뉴스 분류기 (Scikit-Learn & NLTK)
 * 의사 결정 트리 (Decision Tree )
     - 의사결정트리 모델
 * 서포트 벡터 머신(Support Vector Machine)
