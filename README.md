@@ -14,13 +14,13 @@
 * 입문 수준의 통계학
     - [세상에서 가장 쉬운 통계학](http://www.yes24.com/24/goods/3625262?scode=032&OzSrank=1) (고지마 히로유키, 2009) 
 * 고교 이과 수준의 선형대수학 
-    - [Linear Algebra] (https://www.khanacademy.org/math/linear-algebra) (Khan Academy)
+    - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) (Khan Academy)
     - [선형대수학](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) (한양대 이상화 교수, 2013) - Advance Course
 * 리눅스 설치 (14.04+) 및 활용
-    - [Linux - Ubuntu 14.04 설치하기] (http://studyforus.tistory.com/222)
-    - [우분투-1604-설치과정-VMware-12-pro] (http://goodtogreate.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-1604-%EC%84%A4%EC%B9%98%EA%B3%BC%EC%A0%95-VMware-12-pro)
-    - [세상에서 가장 쉬운 리눅스](http://www.yes24.com/24/goods/12653103?scode=032&OzSrank=1) (웨일 소잉카, 2014)
-    - [리눅스 활용 기초] (https://www.youtube.com/playlist?list=PL3zP7rnORnnBb0yZf4GMamxEuOusySpyk)
+    - [Linux - Ubuntu 14.04 설치하기](http://studyforus.tistory.com/222)
+    - [우분투-1604-설치과정-VMware-12-pro](http://goodtogreate.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-1604-%EC%84%A4%EC%B9%98%EA%B3%BC%EC%A0%95-VMware-12-pro)
+    - Reference - [세상에서 가장 쉬운 리눅스](http://www.yes24.com/24/goods/12653103?scode=032&OzSrank=1) (웨일 소잉카, 2014)
+    - Reference - [리눅스 활용 기초](https://www.youtube.com/playlist?list=PL3zP7rnORnnBb0yZf4GMamxEuOusySpyk)
 * 기초 파이썬 
     - Gachon CS50 - [Data structure: Dict type](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS) (최성철, 2016)
     - Gachon CS50 -  [Pythonic code](https://www.youtube.com/watch?v=dFjuSonfEQI&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=8) (Gachon CS50 최성철, 2016)
@@ -108,14 +108,14 @@
     - Lecture: 성능 개선 3 - 경사하강법 알고리즘의 선택
     - Lab: SGD 알고리즘 구현
 * 나이브 베이즈 분류기 (Navie Bayes Classifier)
-    - Lecture: 나이브 베이즈 분류기 개요 (Naive Bayesian Classifier Overview)
+    - Lecture: 나이브 베이즈 분류기 개요 (Naive Bayesian Classifier Overview) - [강의자료](https://doc.co/iTJBKs)
         - RM 1 : DDS Ch 4(p117)
         - RM 2 : scratch Ch 13
-    - Lab: 나이브 베이즈 분류기 구현 (Numpy)
-    - Lab: 스팸필터 분류기 (Scikit-Learn)
-    - Lab: Text-mining 뉴스 분류기 (Scikit-Learn & NLTK)
+    - Lab: 나이브 베이즈 분류기 구현 (Numpy) - [강의자료](https://doc.co/9jadPr), [Code](./code/4_bayesian_classificaion/1_naive_bayes_implementation.ipynb)
+    - Lab: 스팸필터 분류기 (Scikit-Learn) - [Code](./code/4_bayesian_classificaion/2_spam_filter_model_w_sklearn.ipynb)
+    - Lab: Text-mining 뉴스 분류기 (Scikit-Learn & NLTK) - [Code](./code/4_bayesian_classificaion/3_news_classification_w_nltk_nb.ipynb)
 * 의사 결정 트리 (Decision Tree )
-    - 의사결정트리 모델
+    - 의사결정트리 모델 - [Code](./code/5_decision_tree/1_decision_tree_w_sklearn.ipynb)
 * 서포트 벡터 머신(Support Vector Machine)
     - SVM 
 * 뉴럴 네트웤(Neural network)
